@@ -3,7 +3,7 @@ TugasMetastro2024
 # [Nama Anda]
 
 ## Screenshot Akun GitHub
-![Screenshot Project](URL_SCREENSHOT_PROJECT)
+![Screenshot Project]([URL_SCREENSHOT_PROJECT](https://github.com/rafihabibi16/rafihabibi/blob/main/Screenshot%202024-09-25%20205320.png))
 
 ## Project Terbaru: [Nama Project]
 
