@@ -8,7 +8,7 @@ TugasMetastro2024
 ## Project Terbaru: [CHATBOT TELEGRAM BERBAHASA GAUL]
 
 ### Screenshot Project
-![Screenshot Project](URL_SCREENSHOT_PROJECT)
+![Screenshot Project](https://github.com/rafihabibi16/rafihabibi/blob/main/Screenshot%202024-09-25%20214720.png)
 
 ### Deskripsi Project
 [Isi dengan deskripsi singkat project Anda]
