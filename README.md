@@ -11,7 +11,7 @@ TugasMetastro2024
 ![Screenshot Project](https://github.com/rafihabibi16/rafihabibi/blob/main/Screenshot%202024-09-25%20214720.png)
 
 ### Deskripsi Project
-[Isi dengan deskripsi singkat project Anda]
+Proyek ini bertujuan untuk membuat chatbot sederhana di Telegram dengan bahasa sehari-hari yang "gaul" atau santai. Chatbot ini bisa digunakan untuk mengobrol ringan, memberikan informasi, atau bahkan menjawab pertanyaan sederhana dengan gaya bahasa informal, kasual, dan mudah dimengerti oleh kalangan muda
 
 ### Fitur Utama
 - [Fitur 1]
