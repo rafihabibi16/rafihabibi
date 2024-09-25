@@ -1,6 +1,6 @@
 # rafihabibi
 TugasMetastro2024
-# [Nama Anda]
+# [Rafi Ahmad Habibi]
 
 ## Screenshot Akun GitHub
 ![Screenshot Project](https://github.com/rafihabibi16/rafihabibi/blob/main/Screenshot%202024-09-25%20205320.png)
