@@ -19,23 +19,40 @@ Proyek ini bertujuan untuk membuat chatbot sederhana di Telegram dengan bahasa s
 - Pengguna atau admin dapat menambahkan dan mengubah respon chatbot sesuai kebutuhan, agar lebih fleksibel dalam menyampaikan pesan gaul.
 
 ### Cara Menggunakan
-1. [Langkah 1]
-2. [Langkah 2]
-3. [Langkah 3]
+1. PERTAMA KLONE DULU REPONYA
+git clone https://github.com/SenpaiSeeker/chatbot && cd chatbot
+2. KEDUA INSTALL DEPENDENCIES NYA
+pip3 install -r requirements.txt
+3. KETIGA BUAT ENVIRONMENT
+bash config
+4. KEMUDIAN ISI SEMUA YANG DIMINTA
+5. DAN YANG TERAKHIR MENJALANKAN BOT DENGAN PERINTAH
+bash start
+6. UNTUK MENGAKTIFKAN CHATBOT CUKUP KETIK PERINGATAN /chatbot on
 
 ### Teknologi yang Digunakan
-- [Teknologi 1]
-- [Teknologi 2]
-- [Teknologi 3]
+- Python
 
 ### Kontribusi
-[Jelaskan bagaimana orang lain dapat berkontribusi pada project Anda]
+Fork Repository:
 
-### Lisensi
-[Sebutkan lisensi project Anda]
+Pengguna dapat mulai dengan melakukan fork pada repository GitHub project ini, sehingga mereka memiliki salinan project di akun mereka.
+Buat Perbaikan atau Penambahan Fitur:
 
-### Kontak
-[Informasi kontak Anda]
+Jika menemukan bug atau kekurangan, pengguna bisa memperbaikinya. Selain itu, pengguna juga bisa menambahkan fitur baru seperti perintah custom, mode interaksi baru, atau meningkatkan responsivitas chatbot.
+Kirim Pull Request:
 
----
-© [Tahun] [Nama Anda]. Hak Cipta Dilindungi.
+Setelah melakukan perubahan, kirim pull request (PR) ke repository utama. Setiap perubahan yang dilakukan akan direview dan jika sesuai, akan digabungkan (merge) dengan project utama.
+Bantu Menulis Dokumentasi:
+
+Kontributor juga bisa membantu memperbaiki dokumentasi, seperti memperjelas cara instalasi, konfigurasi, atau menambahkan tutorial penggunaan bot.
+Melaporkan Issue:
+
+Jika menemukan masalah, pengguna bisa melaporkannya di bagian Issues pada GitHub. Ini membantu project menjadi lebih baik dengan mengidentifikasi bug atau masalah yang mungkin belum terdeteksi.
+Usulkan Fitur Baru:
+
+Pengguna dapat mengajukan saran atau fitur baru yang bisa membuat chatbot lebih menarik dan fungsional melalui diskusi di Issues atau Discussions.
+Promosi Project:
+
+Bagi yang tidak memiliki keahlian teknis, mereka dapat membantu dengan mempromosikan project ini ke komunitas Telegram, media sosial, atau grup diskusi lainnya.]
+
