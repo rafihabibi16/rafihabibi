@@ -3,7 +3,7 @@ TugasMetastro2024
 # [Nama Anda]
 
 ## Screenshot Akun GitHub
-Screenshot 2024-09-25 205320.png
+(
 
 ## Project Terbaru: [Nama Project]
 
