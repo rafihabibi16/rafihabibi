@@ -14,9 +14,9 @@ TugasMetastro2024
 Proyek ini bertujuan untuk membuat chatbot sederhana di Telegram dengan bahasa sehari-hari yang "gaul" atau santai. Chatbot ini bisa digunakan untuk mengobrol ringan, memberikan informasi, atau bahkan menjawab pertanyaan sederhana dengan gaya bahasa informal, kasual, dan mudah dimengerti oleh kalangan muda
 
 ### Fitur Utama
-- [Fitur 1]
-- [Fitur 2]
-- [Fitur 3]
+- Chatbot merespon dengan gaya bahasa yang kasual dan santai, menggunakan istilah gaul yang populer di kalangan anak muda seperti "Bro", "Sob", "Santuy", dan lain-lain.
+- Chatbot secara otomatis menjawab pesan pengguna dengan respon yang bersifat gaul, memberikan pengalaman obrolan yang ringan dan menyenangkan.
+- Pengguna atau admin dapat menambahkan dan mengubah respon chatbot sesuai kebutuhan, agar lebih fleksibel dalam menyampaikan pesan gaul.
 
 ### Cara Menggunakan
 1. [Langkah 1]
